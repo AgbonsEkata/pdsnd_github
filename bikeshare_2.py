@@ -5,7 +5,7 @@ import numpy as np
 
 # We are using a virtual environment
 # python -m venv venv
-
+# testing the comments
 # source venv/bin/activate
 
 CITY_DATA = { 'chicago': 'chicago.csv',

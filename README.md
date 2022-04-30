@@ -13,4 +13,4 @@ This project prompts a user to view data analysed on any of the three cities on 
 The files used include: Bikeshare.py, chicago.csv, new_york_city.csv, and washington.csv
 
 ### Credits
-I credit udacity for the opportunity to learn.
+I credit udacity for the opportunity to learn. It has been a great learning experience.

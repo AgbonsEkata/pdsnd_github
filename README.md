@@ -12,8 +12,3 @@ This project prompts a user to view data analysed on any of the three cities on 
 ### Files used
 The files used include: Bikeshare.py, chicago.csv, new_york_city.csv, and washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### Commands
-This code has been refactored 4 times
